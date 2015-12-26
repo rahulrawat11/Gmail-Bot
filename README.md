@@ -14,7 +14,6 @@ Command |Parameters |Description
 !info||View information about the bot.
 !ping||Check the bot is alive.
 !rps|rock/paper/scissors|Play rock, paper, scissors against the bot.
-!uptime||Get the uptime of the bot
 
 # LICENSE
 The MIT License (MIT)
