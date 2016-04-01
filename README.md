@@ -1,5 +1,5 @@
 # Python Gmail Bot
-Gmail Bot written in Python and Splinter by [Dominic Peel](https://github.com/P-aradox).
+Gmail Bot written in Python using the Splinter module by [Dominic Peel](https://github.com/P-aradox).
 
 # Commands
 Send command to the bot in the email subject:
