@@ -49,7 +49,7 @@ SOFTWARE.
 1. Save bot.py to a directory of your choice.
 2. Open bot.py in IDLE and edit:
  * `email = ""` with your gmail email.
- * `password = ""` With your gmail password *(Note - Anyone with access to the python code can see your password)*.
+ * `password = ""` With your gmail password *(Note - Anyone with access to your python file can see your password)*.
 3. Save bot.py and exit IDLE.
 4. Open up your terminal and navigate to the directory where bot.py is saved, for example:
  * `cd Desktop`
